@@ -1,0 +1,10 @@
+{
+  "name": "unnamed",
+  "description": "Test version of new unnamed framework.",
+  "keywords": ["framework", "unnamed"],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=5.6.4"
+  }
+}
